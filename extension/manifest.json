@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Minify-json \u2014 Minify and compress large JSON payloads ",
+  "name": "Minify Json",
   "version": "1.0.0",
   "description": "Minify and compress large JSON payloads with syntax validation offline.",
   "icons": {
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Minify-json"
+    "default_title": "Minify Json"
   }
 }
